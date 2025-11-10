@@ -109,4 +109,5 @@ if st.sidebar.button("Predict Price"):
                     st.warning("Disclaimer: Cryptocurrency prices are highly volatile. This model is for educational and experimental purposes only and should not be used for financial advice.")
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("Developed by Your Name/Company")
+st.sidebar.markdown("Developed by Brijesh Adarsh")
+
